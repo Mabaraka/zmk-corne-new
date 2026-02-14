@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/To do.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To do"
+              "title": "README"
+            }
+          },
+          {
+            "id": "de10b879441ac675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/deep-research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "deep-research"
             }
           },
           {
@@ -27,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ПРОШИВКА.md",
+                "file": "docs/ПРОШИВКА.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/To do.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To do"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -127,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/To do.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To do"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -170,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/To do.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To do"
+              "title": "Outline of README"
             }
           }
         ]
@@ -199,21 +213,23 @@
   },
   "active": "065a88bfb78ac371",
   "lastOpenFiles": [
-    "firmware/basic_stable",
-    "firmware/untitled folder",
-    "untitled folder",
-    "config/jorne.keymap.custom.bak",
-    "tmp/jorne.keymap",
-    "config/jorne.keymap",
-    "config/jorne.conf",
-    "docs/deep-research.md",
-    "ПРОШИВКА.md",
-    "tmp/corne copy.keymap",
-    "config/corne copy.keymap",
-    "tmp",
+    "docs/ПРОШИВКА.md",
+    "docs/instructions.md",
+    "README.md",
     "agents.md",
     "docs/To do.md",
-    "firmware/settings_reset-nice_nano-zmk.uf2",
-    "README.md"
+    "docs/deep-research.md",
+    "docs/configuration-summary.md",
+    "archive/readme.md",
+    "archive",
+    "firmware/current/settings_reset-nice_nano_v2-zmk.uf2",
+    "firmware/current/jorne_right-nice_nano_v2-zmk.uf2",
+    "firmware/current/jorne_left-nice_nano_v2-zmk.uf2",
+    "firmware/current",
+    "firmware/untitled folder",
+    "firmware/basic_stable",
+    "untitled folder",
+    "config/jorne.keymap.custom.bak",
+    "tmp/jorne.keymap"
   ]
 }
