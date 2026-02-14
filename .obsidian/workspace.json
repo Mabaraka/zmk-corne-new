@@ -35,8 +35,7 @@
               "title": "ПРОШИВКА"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПРОШИВКА.md",
+                "file": "docs/To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ПРОШИВКА"
+              "title": "Backlinks for To do"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПРОШИВКА.md",
+                "file": "docs/To do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ПРОШИВКА"
+              "title": "Outgoing links from To do"
             }
           },
           {
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПРОШИВКА.md",
+                "file": "docs/To do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ПРОШИВКА"
+              "title": "Outline of To do"
             }
           }
         ]
@@ -198,14 +197,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "51c60e1ed0ed4cfc",
+  "active": "065a88bfb78ac371",
   "lastOpenFiles": [
+    "config/jorne.keymap",
+    "config/jorne.conf",
+    "docs/deep-research.md",
+    "ПРОШИВКА.md",
     "tmp/corne copy.keymap",
     "config/corne copy.keymap",
     "tmp",
     "agents.md",
     "docs/To do.md",
-    "ПРОШИВКА.md",
     "firmware/settings_reset-nice_nano-zmk.uf2",
     "README.md"
   ]
